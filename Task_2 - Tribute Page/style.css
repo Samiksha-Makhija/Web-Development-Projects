@@ -1,0 +1,93 @@
+
+*{
+    margin: 0;padding: 0;
+}
+body{
+    background-color: #1f2833;
+    color: white;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.head
+{
+    text-align: center;
+}
+.home 
+{
+   /* display: flex;
+    align-items: center;
+    justify-content: center;*/
+   
+    text-align:center; 
+   
+}
+img
+{  
+    width: 22em;
+    height: 30%;
+}
+.content
+{ 
+
+   text-align:center; 
+   
+ 
+
+}
+.text p
+{   font-size: 12px;
+    color: aqua;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   margin-left: 0px;
+   text-align: center;
+} 
+.info
+{
+    display: flex;align-items: center;justify-content: center;
+}
+.strong{
+    width: 100%;
+    margin: 0% 10%;
+    height:20%;
+    background-color: white;
+    box-shadow: 5px 5px 5px black;
+    color: black;
+   text-align: justify;
+}
+.strong h1
+{ padding-top: 9px;
+ text-align: center;
+}
+.strong p
+{
+    padding: 3% 8%;
+}
+.basic
+{
+    padding: 0 10% 5% 10%;
+}
+.foot
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.last
+{  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   /* padding: 0 15%;*/
+    color: rgb(0, 0, 0);
+   background-color: white;
+   width: 80%;
+   text-align: justify;
+   box-shadow: 5px 5px 5px black;
+
+}
+.last h2
+{
+    padding: 0 10%;
+}
+.last h4
+{
+    padding: 0 10%;
+}
